@@ -1,5 +1,4 @@
-##### I’m currently learning data science and machine learning through a Diploma in Data Science at Concordia University in Montreal, Canada.
-##### More to come...
+##### I’m a data science and machine learning enthusiast who learned through a Diploma in Data Science at Concordia University in Montreal, Canada.
 
 <!--
 **marcduguay/marcduguay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
